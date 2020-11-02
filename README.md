@@ -246,5 +246,9 @@ The table above is evaluation matrix of Base model machine learning and the scal
 Not scaled logistic regression has the best recall score among all model, it actually correctly predict **162 out of 164 Fraud Transaction**, however after a hyperparameter tuning the recall score stays the same for logistic regression, so in conclusion logistic regression perform the best when it comes to predict a fraud transaction from learning from this dataset
 
 
+**Confusion Matrix Heatmap**
+
+![image](https://user-images.githubusercontent.com/57277832/97889071-7ca12900-1d5e-11eb-8fd5-f3a74c9884c5.png)
+
 
 </details>
