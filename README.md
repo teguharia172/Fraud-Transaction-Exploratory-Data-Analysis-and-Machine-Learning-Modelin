@@ -12,7 +12,7 @@ In this notebook, we're doing an exploratory data analysis on fraud bank cases, 
 
 ## Problem Statement 
 
-millions of bank transaction happened everyday, especially as digital banking getting more and more popular  since around 2010, having an access to banking never been closer, however as the access to banking getting closer to the customers, access to banking also been closer to the criminals (people who commited fraud in this case). As the banking is getting more and more accessible the number of fraud cases also getting higher and higher in each year. Fraud cases is not just hurting customers it also hurt the bank in general as the trust inflicted financial loss to the bank, the fraud cases also inflicted a trust loss to the bank.
+millions of bank transaction happened everyday, especially as digital banking getting more and more popular  since around 2010, having an access to banking never been closer, however as the access to banking getting closer to the customers, access to banking also been closer to the criminals (people who commited fraud in this case). As the banking is getting more and more accessible the number of fraud cases also getting higher and higher in each year. Fraud cases is not just hurting customers it also hurt the bank in general as the trust goes down as more fraud cases goes up and the fraud cases also inflicted a trust loss to the bank.
 
 
 ## Goals 
